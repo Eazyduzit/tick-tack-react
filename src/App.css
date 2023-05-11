@@ -2,10 +2,6 @@ body{
   background-color: grey;
 }
 
-/* .board-row{
-
-} */
-
 .board-row, .status{
   display: flex;
   justify-content: center;
